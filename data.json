@@ -10,6 +10,139 @@
   },
   "episodes": [
     {
+      "id": "winter3-birthday-alley",
+      "tab": "생일 주말 3룩",
+      "title": "서른 살 생일 주말, 친구들이랑 골목 한바퀴",
+      "date": "2026-11-13",
+      "priceAsOf": "2026-11-13",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/Dfrw_58hWyr/",
+      "looks": [
+        {
+          "id": "winter3-look1",
+          "label": "LOOK 1",
+          "title": "화이트 퍼가디건 + 블랙 폴라 미니",
+          "still": "images/looks/winter3-look1.webp",
+          "products": [
+            {
+              "id": "52057666",
+              "name": "보슬 루즈핏 퍼가디건",
+              "shop": "Rosebybeen",
+              "option": "화이트",
+              "price": 29890,
+              "priceLabel": "29,890원",
+              "image": "images/products/52057666.webp",
+              "url": "https://applink.a-bly.com/3o1q8ez",
+              "hasApplink": true
+            },
+            {
+              "id": "2263067",
+              "name": "긴소매 기모 폴라 미니 원피스",
+              "shop": "자꾸샵",
+              "option": "블랙",
+              "price": 17500,
+              "priceLabel": "17,500원",
+              "image": "images/products/2263067.webp",
+              "url": "https://applink.a-bly.com/boc9uuj",
+              "hasApplink": true
+            },
+            {
+              "id": "4969766",
+              "name": "데일리 내추럴 심플 슬림 롱부츠 니하이",
+              "shop": "더레이디",
+              "option": "A [뒷지퍼] 3cm 블랙",
+              "price": 28900,
+              "priceLabel": "28,900원",
+              "image": "images/products/4969766.webp",
+              "url": "https://applink.a-bly.com/n4daa1u",
+              "hasApplink": true
+            }
+          ]
+        },
+        {
+          "id": "winter3-look2",
+          "label": "LOOK 2",
+          "title": "아이보리 아방 가디건 + 레더 숏팬츠",
+          "still": "images/looks/winter3-look2.webp",
+          "products": [
+            {
+              "id": "53679791",
+              "name": "브론 니트 가디건 브이넥 아방핏",
+              "shop": "에이리즈",
+              "option": "아이보리",
+              "price": 36730,
+              "priceLabel": "36,730원",
+              "image": "images/products/53679791.webp",
+              "url": "https://applink.a-bly.com/le49kqy",
+              "hasApplink": true
+            },
+            {
+              "id": "1679370",
+              "name": "레더 하이웨스트 스판 반바지 숏팬츠",
+              "shop": "오늘은",
+              "option": "블랙",
+              "price": 11990,
+              "priceLabel": "11,990원",
+              "image": "images/products/1679370.webp",
+              "url": "https://applink.a-bly.com/dc6i8vt",
+              "hasApplink": true
+            },
+            {
+              "id": "4969766",
+              "name": "데일리 내추럴 심플 슬림 롱부츠 니하이",
+              "shop": "더레이디",
+              "option": "A [뒷지퍼] 3cm 블랙",
+              "price": 28900,
+              "priceLabel": "28,900원",
+              "image": "images/products/4969766.webp",
+              "url": "https://applink.a-bly.com/kneo4wn",
+              "hasApplink": true
+            }
+          ]
+        },
+        {
+          "id": "winter3-look3",
+          "label": "LOOK 3",
+          "title": "베이지 골지 가디건 + 맥시 스커트",
+          "still": "images/looks/winter3-look3.webp",
+          "products": [
+            {
+              "id": "39291255",
+              "name": "데일리핏 슬림 골지 단추 니트 가디건",
+              "shop": "럽앤썸",
+              "option": "베이지",
+              "price": 26410,
+              "priceLabel": "26,410원",
+              "image": "images/products/39291255.webp",
+              "url": "https://applink.a-bly.com/1fozmzm",
+              "hasApplink": true
+            },
+            {
+              "id": "33433089",
+              "name": "맥시 골지 니트 롱 H라인 치마",
+              "shop": "오브마인",
+              "option": "베이지",
+              "price": 23900,
+              "priceLabel": "23,900원",
+              "image": "images/products/33433089.webp",
+              "url": "https://applink.a-bly.com/s0c9676",
+              "hasApplink": true
+            },
+            {
+              "id": "74175120",
+              "name": "헤일 아일렛 버클 스퀘어 숄더백",
+              "shop": "자스민벨",
+              "option": "블랙",
+              "price": 28400,
+              "priceLabel": "28,400원",
+              "image": "images/products/74175120.webp",
+              "url": "https://applink.a-bly.com/t9ka6ci",
+              "hasApplink": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dance-L1-2",
       "tab": "LOOK 1~2",
       "title": "소개팅 전날 밤, 결국 니트로 골랐어요",
