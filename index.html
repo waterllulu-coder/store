@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#F4EFE8">
+  <title>김명자 옷장</title>
+  <meta name="description" content="영상 속 그 옷, 룩 번호로 찾아보세요. 김명자(toda.y9797) 코디 스토어.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=Noto+Serif+KR:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="header">
+      <p class="handle"><a id="ig-link" href="https://www.instagram.com/toda.y9797/" target="_blank" rel="noopener noreferrer">@toda.y9797</a></p>
+      <h1 id="store-title">김명자 옷장</h1>
+      <p id="store-subtitle" class="subtitle">영상 속 그 옷, 룩 번호로 찾아보세요</p>
+      <p id="disclosure" class="disclosure">[광고] 이 페이지의 링크로 구매 시 수수료를 받을 수 있어요</p>
+      <p id="ai-note" class="ai-note">AI 가상 착용 이미지 · 사진 출처: 에이블리 각 샵</p>
+    </header>
+
+    <div class="search-wrap">
+      <label class="sr-only" for="search">룩·상품 검색</label>
+      <input id="search" type="search" placeholder="룩 번호, 상품 이름으로 찾기" autocomplete="off" enterkeyhint="search">
+    </div>
+
+    <nav class="tabs" id="tabs" aria-label="영상 선택"></nav>
+
+    <main id="main"></main>
+
+    <p id="empty" class="empty" hidden>해당하는 룩이 없어요. 다른 검색어를 입력해 보세요.</p>
+
+    <footer class="footer">
+      <p id="footer-disclosure">[광고] 이 페이지의 링크로 구매 시 수수료를 받을 수 있어요</p>
+      <p id="footer-ai">AI 가상 착용 이미지 · 사진 출처: 에이블리 각 샵</p>
+      <p id="footer-price" class="muted">가격은 조사 시점 기준이며 바뀔 수 있어요.</p>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

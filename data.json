@@ -1,0 +1,432 @@
+{
+  "store": {
+    "title": "김명자 옷장",
+    "subtitle": "영상 속 그 옷, 룩 번호로 찾아보세요",
+    "instagram": "toda.y9797",
+    "instagramUrl": "https://www.instagram.com/toda.y9797/",
+    "disclosure": "[광고] 이 페이지의 링크로 구매 시 수수료를 받을 수 있어요",
+    "aiNote": "AI 가상 착용 이미지 · 사진 출처: 에이블리 각 샵",
+    "priceNote": "가격은 조사 시점 기준이며 바뀔 수 있어요."
+  },
+  "episodes": [
+    {
+      "id": "dance-L1-2",
+      "tab": "LOOK 1~2",
+      "title": "소개팅 전날 밤, 결국 니트로 골랐어요",
+      "date": "2026-11-10",
+      "priceAsOf": "2026-11-10",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/DfjB1OtBBtF/",
+      "looks": [
+        {
+          "id": "dance-look1",
+          "label": "LOOK 1",
+          "title": "화이트 앙고라 니트 + 캉캉 미니",
+          "still": "images/looks/dance-look1.webp",
+          "products": [
+            {
+              "id": "32009593",
+              "name": "몽실 구름 솔잎 앙고라 루즈핏 니트",
+              "shop": "럽앤썸",
+              "option": "화이트",
+              "price": 25460,
+              "priceLabel": "25,460원",
+              "image": "images/products/32009593.webp",
+              "url": "https://applink.a-bly.com/1p0d62e",
+              "hasApplink": true
+            },
+            {
+              "id": "65040618",
+              "name": "발레코어 레이스 셔링 티어드 캉캉 미니",
+              "shop": "걸리사",
+              "option": "아이보리",
+              "price": 18810,
+              "priceLabel": "18,810원",
+              "image": "images/products/65040618.webp",
+              "url": "https://applink.a-bly.com/gfo9h3n",
+              "hasApplink": true
+            },
+            {
+              "id": "34678675",
+              "name": "와이드 하이 롱부츠 스웨이드 슬라우치",
+              "shop": "신고입고",
+              "option": "베이지",
+              "price": 32590,
+              "priceLabel": "32,590원",
+              "image": "images/products/34678675.webp",
+              "url": "https://applink.a-bly.com/elc188u",
+              "hasApplink": true
+            }
+          ]
+        },
+        {
+          "id": "dance-look2",
+          "label": "LOOK 2",
+          "title": "와인 브이넥 니트 + 2단 플리츠 미니",
+          "still": "images/looks/dance-look2.webp",
+          "products": [
+            {
+              "id": "54167898",
+              "name": "플로아 브이넥 니트",
+              "shop": "딜라잇문",
+              "option": "Wine",
+              "price": 35800,
+              "priceLabel": "35,800원",
+              "image": "images/products/54167898.webp",
+              "url": "https://applink.a-bly.com/m1dp0mr",
+              "hasApplink": true
+            },
+            {
+              "id": "31243196",
+              "name": "캉캉 2단 플리츠 플레어 밴딩 미니",
+              "shop": "쏘볼드",
+              "option": "아이보리(화이트)",
+              "price": 17860,
+              "priceLabel": "17,860원",
+              "image": "images/products/31243196.webp",
+              "url": "https://applink.a-bly.com/sr3r8aw",
+              "hasApplink": true
+            },
+            {
+              "id": "4969766",
+              "name": "슬림 롱부츠 니하이 뒷지퍼",
+              "shop": "더레이디",
+              "option": "A [뒷지퍼] 3cm 블랙",
+              "price": 28900,
+              "priceLabel": "28,900원",
+              "image": "images/products/4969766.webp",
+              "url": "https://applink.a-bly.com/u2xc2f8",
+              "hasApplink": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dance-L3-4",
+      "tab": "LOOK 3~4",
+      "title": "캐주얼로 갈까, 러블리로 갈까",
+      "date": "2026-11-10",
+      "priceAsOf": "2026-11-10",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/DfjGB8Vh3sK/",
+      "looks": [
+        {
+          "id": "dance-look3",
+          "label": "LOOK 3",
+          "title": "카키 후드집업 + 셔링 블라우스 + 캉캉 미니",
+          "still": "images/looks/dance-look3.webp",
+          "products": [
+            {
+              "id": "53400076",
+              "name": "라크 피그먼트 워싱 투웨이 후드집업",
+              "shop": "하이쭈",
+              "option": "카키",
+              "price": 33690,
+              "priceLabel": "33,690원",
+              "image": "images/products/53400076.webp",
+              "url": "https://applink.a-bly.com/58c8w5r",
+              "hasApplink": true
+            },
+            {
+              "id": "45684534",
+              "name": "또띠아 셔링 나시 블라우스",
+              "shop": "플러스걸즈",
+              "option": "아이보리",
+              "price": 27900,
+              "priceLabel": "27,900원",
+              "image": "images/products/45684534.webp",
+              "url": "https://applink.a-bly.com/8xgy1t1",
+              "hasApplink": true
+            },
+            {
+              "id": "65040618",
+              "name": "발레코어 레이스 셔링 티어드 캉캉 미니",
+              "shop": "걸리사",
+              "option": "아이보리",
+              "price": 18810,
+              "priceLabel": "18,810원",
+              "image": "images/products/65040618.webp",
+              "url": "https://applink.a-bly.com/gfo9h3n",
+              "hasApplink": true
+            },
+            {
+              "id": "9759173",
+              "name": "써클 링 벨트 바이커 부츠",
+              "shop": "아이즈오",
+              "option": "브라운-1버클",
+              "price": 44000,
+              "priceLabel": "44,000원",
+              "image": "images/products/9759173.webp",
+              "url": "https://applink.a-bly.com/lww7mp8",
+              "hasApplink": true
+            }
+          ]
+        },
+        {
+          "id": "dance-look4",
+          "label": "LOOK 4",
+          "title": "모카 오프숄더 + 브라운 레더 치마바지",
+          "still": "images/looks/dance-look4.webp",
+          "products": [
+            {
+              "id": "52317433",
+              "name": "오프숄더 퍼프 블라우스 셔링 스모킹",
+              "shop": "에소르네",
+              "option": "모카",
+              "price": 36000,
+              "priceLabel": "36,000원",
+              "image": "images/products/52317433.webp",
+              "url": "https://applink.a-bly.com/4a2ef7o",
+              "hasApplink": true
+            },
+            {
+              "id": "76924935",
+              "name": "세븐 옆트임 레더 A라인 미니 치마바지",
+              "shop": "레브핏",
+              "option": "브라운",
+              "price": 23990,
+              "priceLabel": "23,990원",
+              "image": "images/products/76924935.webp",
+              "url": "https://applink.a-bly.com/04dm4xg",
+              "hasApplink": true
+            },
+            {
+              "id": "9607033",
+              "name": "투버클 미들부츠",
+              "shop": "퍼지스튜디오",
+              "option": "블랙",
+              "price": 63000,
+              "priceLabel": "63,000원",
+              "image": "images/products/9607033.webp",
+              "url": "https://applink.a-bly.com/7q0wg29",
+              "hasApplink": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dance-L5",
+      "tab": "LOOK 5",
+      "title": "소개팅 당일, 결국 이 코디로 나갔어요",
+      "date": "2026-11-10",
+      "priceAsOf": "2026-11-10",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/DfjHMaEBbIY/",
+      "looks": [
+        {
+          "id": "dance-look5",
+          "label": "LOOK 5",
+          "title": "하트넥 니트 + 플라워 쉬폰 미디",
+          "still": "images/looks/dance-look5.webp",
+          "products": [
+            {
+              "id": "1882365",
+              "name": "페미닌 스퀘어 하트넥 슬림 긴팔 니트티",
+              "shop": "글램핏",
+              "option": "화이트",
+              "price": 30800,
+              "priceLabel": "30,800원",
+              "image": "images/products/1882365.webp",
+              "url": "https://applink.a-bly.com/id1d536",
+              "hasApplink": true
+            },
+            {
+              "id": "76620246",
+              "name": "보아 반디 플라워 쉬폰 미디 롱 SK",
+              "shop": "원썸몰",
+              "option": "딥퍼플",
+              "price": 31900,
+              "priceLabel": "31,900원",
+              "image": "images/products/76620246.webp",
+              "url": "https://applink.a-bly.com/h0yoev8",
+              "hasApplink": true
+            },
+            {
+              "id": "2898926",
+              "name": "종아리커버 미들굽 레더 롱부츠",
+              "shop": "몽그라미",
+              "option": "브라운",
+              "price": 79420,
+              "priceLabel": "79,420원",
+              "image": "images/products/2898926.webp",
+              "url": "https://applink.a-bly.com/0p59wdt",
+              "hasApplink": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "autumn-ranking-20261024",
+      "tab": "랭킹 1·2위 가을 코디",
+      "title": "에이블리 랭킹 1·2위 가을 코디",
+      "date": "2026-10-24",
+      "priceAsOf": "2026-10-24",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/De4LYM9pfh2/",
+      "looks": [
+        {
+          "id": "ranking-look1",
+          "label": "LOOK 1",
+          "title": "차콜 하이넥 하프코트 + 오트베이지 브이넥 니트",
+          "still": "images/looks/ranking-look1.webp",
+          "products": [
+            {
+              "id": "76998604",
+              "name": "다니엘 하이넥 더블버튼 트렌치 모직 하프 숏코트",
+              "shop": "클래식블랑",
+              "option": "차콜",
+              "price": 41740,
+              "priceLabel": "41,740원",
+              "image": "images/products/76998604.webp",
+              "url": "https://m.a-bly.com/goods/76998604",
+              "hasApplink": false
+            },
+            {
+              "id": "76956505",
+              "name": "엠프 울5% 나그랑 니트 2ver. 브이넥",
+              "shop": "히니크",
+              "option": "오트베이지",
+              "price": 25280,
+              "priceLabel": "25,280원",
+              "image": "images/products/76956505.webp",
+              "url": "https://m.a-bly.com/goods/76956505",
+              "hasApplink": false
+            },
+            {
+              "id": "77055913",
+              "name": "made 메리 벨벳 코듀로이 세미 부츠컷팬츠",
+              "shop": "홀리",
+              "option": "베이지",
+              "price": 36020,
+              "priceLabel": "36,020원",
+              "image": "images/products/77055913.webp",
+              "url": "https://m.a-bly.com/goods/77055913",
+              "hasApplink": false
+            }
+          ]
+        },
+        {
+          "id": "ranking-look2",
+          "label": "LOOK 2",
+          "title": "연베이지 솔잎 버튼 니트 + 그레이시진청 부츠컷",
+          "still": "images/looks/ranking-look2.webp",
+          "products": [
+            {
+              "id": "76924098",
+              "name": "슈니 솔잎 딥브이넥 루즈핏 단추 긴팔 니트",
+              "shop": "어바웃영",
+              "option": "연베이지",
+              "price": 23380,
+              "priceLabel": "23,380원",
+              "image": "images/products/76924098.webp",
+              "url": "https://m.a-bly.com/goods/76924098",
+              "hasApplink": false
+            },
+            {
+              "id": "76308264",
+              "name": "노다 워싱 데님 세미 로우 부츠컷 팬츠",
+              "shop": "유색",
+              "option": "그레이시진청",
+              "price": 25470,
+              "priceLabel": "25,470원",
+              "image": "images/products/76308264.webp",
+              "url": "https://m.a-bly.com/goods/76308264",
+              "hasApplink": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "autumn-daily-20261024",
+      "tab": "가을 데일리룩",
+      "title": "키 작아도 길어 보이는 가을 데일리룩 2가지",
+      "date": "2026-10-24",
+      "priceAsOf": "2026-10-22",
+      "reelUrl": "https://www.instagram.com/toda.y9797/reel/De3j_kGhIXK/",
+      "looks": [
+        {
+          "id": "daily-look1",
+          "label": "LOOK 1",
+          "title": "야상 + 헨리넥 니트 + 핀턱 팬츠",
+          "still": "images/looks/daily-look1.webp",
+          "products": [
+            {
+              "id": "65796952",
+              "name": "버터 하프 숏 야상 점퍼",
+              "shop": "모디무드",
+              "option": "카키",
+              "price": 45770,
+              "priceLabel": "45,770원",
+              "image": "images/products/65796952.webp",
+              "url": "https://m.a-bly.com/goods/65796952",
+              "hasApplink": false
+            },
+            {
+              "id": "76366150",
+              "name": "루아스 헨리넥 버튼 니트",
+              "shop": "홀리",
+              "option": "그레이",
+              "price": 24510,
+              "priceLabel": "24,510원",
+              "image": "images/products/76366150.webp",
+              "url": "https://m.a-bly.com/goods/76366150",
+              "hasApplink": false
+            },
+            {
+              "id": "25648592",
+              "name": "사이드 스냅 3-way 와이드 코튼 핀턱 팬츠",
+              "shop": "모디무드",
+              "option": "베이지",
+              "price": 22840,
+              "priceLabel": "22,840원",
+              "image": "images/products/25648592.webp",
+              "url": "https://m.a-bly.com/goods/25648592",
+              "hasApplink": false
+            }
+          ]
+        },
+        {
+          "id": "daily-look2",
+          "label": "LOOK 2",
+          "title": "하이넥 트렌치 + 편지니트 + 데님",
+          "still": "images/looks/daily-look2.webp",
+          "products": [
+            {
+              "id": "76266421",
+              "name": "하이넥 더블 버튼 오버 트렌치 코트",
+              "shop": "모디무드",
+              "option": "회베이지",
+              "price": 67110,
+              "priceLabel": "67,110원",
+              "image": "images/products/76266421.webp",
+              "url": "https://m.a-bly.com/goods/76266421",
+              "hasApplink": false
+            },
+            {
+              "id": "76883404",
+              "name": "편지 딥버튼 자개 단추 여리핏 니트",
+              "shop": "모디무드",
+              "option": "아이보리",
+              "price": 22050,
+              "priceLabel": "22,050원",
+              "image": "images/products/76883404.webp",
+              "url": "https://m.a-bly.com/goods/76883404",
+              "hasApplink": false
+            },
+            {
+              "id": "24498862",
+              "name": "하이웨스트 데님 부츠컷 팬츠",
+              "shop": "조이조이",
+              "option": "딥블루 롱",
+              "price": 26270,
+              "priceLabel": "26,270원",
+              "image": "images/products/24498862.webp",
+              "url": "https://m.a-bly.com/goods/24498862",
+              "hasApplink": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
